@@ -63,5 +63,3 @@ hangman_pics = ['''
  / \  |
       |
 =========''']
-
-# print(hangman_pics[0])
