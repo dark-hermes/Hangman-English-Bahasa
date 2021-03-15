@@ -1,3 +1,5 @@
+# logo from
+# https://ascii.co.uk/art/hangman
 logo = """
  _                                             
 | |                                            
@@ -8,6 +10,9 @@ logo = """
                     __/ |                      
                    |___/ """
 
+
+# hangman pics from
+# https://gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c
 hangman_pics = ['''
   +---+
   |   |
